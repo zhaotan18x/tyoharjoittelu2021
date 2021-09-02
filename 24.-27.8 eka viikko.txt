@@ -1,4 +1,5 @@
-## 24.8.2021;; Ensimmäinen pv Ideafix oy firma 8-16 vaatteiden saanti, tutustumassa mestan vielä kertaalleen ja alku n. tunnin seuraaminen kollegan kanssa,
+** 24.8.2021;; Ensimmäinen pv Ideafix oy firma** 
+8-16 vaatteiden saanti, tutustumassa mestan vielä kertaalleen ja alku n. tunnin seuraaminen kollegan kanssa,
 pientä säätöä elektroniikan ja sähkö töiden kanssa & pääsin itse oma itsenäisesti tekee ohjeen mukaan. 
 N. klo 10-16 Ubuntu Linux toimintaa, päivitystä 18.04:sta --> 20.04:lle, check ip juttuja, sudo nano <nimi>@ip-osoite & 
 jos warning sen kanssa erillinen kommentto, ja muuta pilven seuraamista
