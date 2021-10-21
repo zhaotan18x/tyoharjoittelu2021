@@ -3,5 +3,7 @@ Kokonainen androidi käyttöjärjestlemä mitä voi suorittaa pc:lle tai muulle 
 <b> ohje </b>
 https://www.android-x86.org/installhowto.html
 
+ISO tiedoston purkaminen menee kuin rufus ohjelma
+
 <p>ladattavissa olevat tiedostot </p>
 https://www.fosshub.com/Android-x86.html
